@@ -1,0 +1,7 @@
+{
+  "name": "App-ADI",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
